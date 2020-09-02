@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ccd08d1-96fe-4c0c-9b37-41428af1e63e" name="Default Changelist" comment="" />
+    <list default="true" id="8ccd08d1-96fe-4c0c-9b37-41428af1e63e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shuang/JwtApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shuang/JwtApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shuang/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shuang/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/shuang/JwtApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shuang/JwtApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/shuang/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shuang/security/SecurityConfig.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gd3p9JX17BnH6oW06amj4uKpSI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,6 +38,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringSecurityJwtDemo" />
@@ -30,6 +50,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.shuang.config" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.shuang" />
       <recent name="com.shuang.service" />
@@ -72,7 +95,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598430822169</updated>
-      <workItem from="1598430825788" duration="4413000" />
+      <workItem from="1598430825788" duration="37215000" />
+      <workItem from="1598887458412" duration="9675000" />
+      <workItem from="1599025250235" duration="4276000" />
     </task>
     <servers />
   </component>
@@ -80,50 +105,58 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="531" y="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1598922033100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1598922033100" />
     <state x="534" y="114" key="FileChooserDialogImpl" timestamp="1598431840410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598431840410" />
-    <state x="0" y="460" width="349" height="248" key="Github.ShareDialog" timestamp="1598450329138">
+    <state x="411" y="273" width="349" height="248" key="Github.ShareDialog" timestamp="1598496504751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="460" width="349" height="248" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1598450329138" />
-    <state width="1323" height="209" key="GridCell.Tab.0.bottom" timestamp="1598433325270">
+    <state x="411" y="273" width="349" height="248" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1598496504751" />
+    <state width="1323" height="353" key="GridCell.Tab.0.bottom" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.0.center" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.0.center" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.0.left" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.0.left" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.0.right" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.0.right" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.1.bottom" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.1.bottom" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.1.center" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.1.center" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.1.left" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.1.left" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
-    <state width="1323" height="209" key="GridCell.Tab.1.right" timestamp="1598433325270">
+    <state width="1323" height="353" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
+    <state width="1323" height="353" key="GridCell.Tab.1.right" timestamp="1599033423992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="209" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598433325270" />
+    <state width="1323" height="353" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599033423992" />
     <state x="322" y="43" key="Maven.ArtifactSearchDialog" timestamp="1598431219452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="43" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1598431219452" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1599025249316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599025249316" />
     <state x="648" y="109" key="svn.repositoryBrowser" timestamp="1598450364302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
