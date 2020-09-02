@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ccd08d1-96fe-4c0c-9b37-41428af1e63e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shuang/JwtApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shuang/JwtApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shuang/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shuang/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shuang/JwtApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shuang/JwtApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shuang/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shuang/security/SecurityConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +91,7 @@
       <updated>1598430822169</updated>
       <workItem from="1598430825788" duration="37215000" />
       <workItem from="1598887458412" duration="9675000" />
-      <workItem from="1599025250235" duration="4276000" />
+      <workItem from="1599025250235" duration="5392000" />
     </task>
     <servers />
   </component>
